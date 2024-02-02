@@ -1,6 +1,6 @@
 package activity2;
 import java.util.*;
-public class Queue_Haneen {
+public class Queue{
 	
 		int SIZE =5;
 		int items[]=new int[SIZE];
